@@ -1,0 +1,19 @@
+# Node.js with TypeScript
+node_modules/
+dist/
+.env
+
+# Editors
+.vscode/
+.idea/
+
+# Logs and runtime data
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+bower_components/
